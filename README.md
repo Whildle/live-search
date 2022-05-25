@@ -1,3 +1,2 @@
 # live-search
-Live search for a website
-fsdfsd
+An example of a live search implementation for your site
